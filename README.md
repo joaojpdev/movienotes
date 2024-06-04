@@ -4,7 +4,7 @@
 Building an API for film annotations.
 
 
-## Conceitos Estudados:
+## Concepts learned:
 
 - Initialization and configuration of Node in the project;
 - Use express to handle http requests;
